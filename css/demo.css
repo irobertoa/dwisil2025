@@ -111,6 +111,7 @@
 
 .content picture img{
     border-radius:15%;
+    border:1px solid black;
 }
 
 
