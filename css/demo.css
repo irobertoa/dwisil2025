@@ -108,3 +108,10 @@
   color: #007BFF;
   margin-right: 8px;
 }
+
+.content picture img{
+    border-radius:15%;
+}
+
+
+
